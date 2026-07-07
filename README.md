@@ -79,7 +79,7 @@ Morph Conformations analysis (MatchMaker + MD Movie) between 1QO9 and 1QON revea
 
 ---
 
-## 📁 Repository structure
+## Repository structure
 
 | File | Description |
 |---|---|
